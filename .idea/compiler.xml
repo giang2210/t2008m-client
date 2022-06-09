@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="t2008m-client" />
+        <module name="t2008m-restful-client" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="t2008m-client" target="1.8" />
+      <module name="t2008m-restful-client" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

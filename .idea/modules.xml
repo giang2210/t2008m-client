@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/t2008m-client.iml" filepath="$PROJECT_DIR$/t2008m-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/t2008m-restful-client.iml" filepath="$PROJECT_DIR$/t2008m-restful-client.iml" />
     </modules>
   </component>
 </project>
